@@ -1,0 +1,107 @@
+Time: 94 ms	Response succeeded	Correct content type.	Correct json scheme.
+response content: {
+ "gS": "1.98.0-master_3fdbec36",
+ "aS": "1.98.0-master_3fdbec36",
+ "ahS": "1.40.0-master_3fdbec36",
+ "iaS": "1.46.0-master_3fdbec36",
+ "nS": "1.46.0-master_3fdbec36",
+ "lS": "1.27.0-master_3fdbec36"
+}
+Time: 25 ms	Response succeeded	Correct content type.	Correct json scheme.
+response content: {
+ "gS": "1.98.0-master_3fdbec36",
+ "aS": "1.98.0-master_3fdbec36",
+ "ahS": "1.40.0-master_3fdbec36",
+ "iaS": "1.46.0-master_3fdbec36",
+ "nS": "1.46.0-master_3fdbec36",
+ "lS": "1.27.0-master_3fdbec36"
+}
+Time: 25 ms	Response succeeded	Correct content type.	Correct json scheme.
+response content: {
+ "gS": "1.98.0-master_3fdbec36",
+ "aS": "1.98.0-master_3fdbec36",
+ "ahS": "1.40.0-master_3fdbec36",
+ "iaS": "1.46.0-master_3fdbec36",
+ "nS": "1.46.0-master_3fdbec36",
+ "lS": "1.27.0-master_3fdbec36"
+}
+Time: 23 ms	Response succeeded	Correct content type.	Correct json scheme.
+response content: {
+ "gS": "1.98.0-master_3fdbec36",
+ "aS": "1.98.0-master_3fdbec36",
+ "ahS": "1.40.0-master_3fdbec36",
+ "iaS": "1.46.0-master_3fdbec36",
+ "nS": "1.46.0-master_3fdbec36",
+ "lS": "1.27.0-master_3fdbec36"
+}
+Time: 20 ms	Response succeeded	Correct content type.	Correct json scheme.
+response content: {
+ "gS": "1.98.0-master_3fdbec36",
+ "aS": "1.98.0-master_3fdbec36",
+ "ahS": "1.40.0-master_3fdbec36",
+ "iaS": "1.46.0-master_3fdbec36",
+ "nS": "1.46.0-master_3fdbec36",
+ "lS": "1.27.0-master_3fdbec36"
+}
+Time: 29 ms	Response succeeded	Correct content type.	Correct json scheme.
+response content: {
+ "gS": "1.98.0-master_3fdbec36",
+ "aS": "1.98.0-master_3fdbec36",
+ "ahS": "1.40.0-master_3fdbec36",
+ "iaS": "1.46.0-master_3fdbec36",
+ "nS": "1.46.0-master_3fdbec36",
+ "lS": "1.27.0-master_3fdbec36"
+}
+Time: 40 ms	Response succeeded	Correct content type.	Correct json scheme.
+response content: {
+ "gS": "1.98.0-master_3fdbec36",
+ "aS": "1.98.0-master_3fdbec36",
+ "ahS": "1.40.0-master_3fdbec36",
+ "iaS": "1.46.0-master_3fdbec36",
+ "nS": "1.46.0-master_3fdbec36",
+ "lS": "1.27.0-master_3fdbec36"
+}
+Time: 22 ms	Response succeeded	Correct content type.	Correct json scheme.
+response content: {
+ "gS": "1.98.0-master_3fdbec36",
+ "aS": "1.98.0-master_3fdbec36",
+ "ahS": "1.40.0-master_3fdbec36",
+ "iaS": "1.46.0-master_3fdbec36",
+ "nS": "1.46.0-master_3fdbec36",
+ "lS": "1.27.0-master_3fdbec36"
+}
+Time: 24 ms	Response succeeded	Correct content type.	Correct json scheme.
+response content: {
+ "gS": "1.98.0-master_3fdbec36",
+ "aS": "1.98.0-master_3fdbec36",
+ "ahS": "1.40.0-master_3fdbec36",
+ "iaS": "1.46.0-master_3fdbec36",
+ "nS": "1.46.0-master_3fdbec36",
+ "lS": "1.27.0-master_3fdbec36"
+}
+Time: 21 ms	Response succeeded	Correct content type.	Correct json scheme.
+response content: {
+ "gS": "1.98.0-master_3fdbec36",
+ "aS": "1.98.0-master_3fdbec36",
+ "ahS": "1.40.0-master_3fdbec36",
+ "iaS": "1.46.0-master_3fdbec36",
+ "nS": "1.46.0-master_3fdbec36",
+ "lS": "1.27.0-master_3fdbec36"
+}
+
+Pinging tvgo.orange.pl [212.244.39.221] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 212.244.39.221:
+    Packets: Sent = 12, Received = 0, Lost = 12 (100% loss),
